@@ -4,9 +4,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **Crypto API App**
+- 🔭 I’m currently working on **Task Manager App**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **b.philippe.97@gmail.com**
 
