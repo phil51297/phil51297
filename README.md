@@ -4,9 +4,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **Crypto API App**
+- 🔭 I’m currently working on **portal for Dynatrace**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Vue.js**
 
 - 📫 How to reach me **b.philippe.97@gmail.com**
 
