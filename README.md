@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **portal for Dynatrace**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **SpringBoots**
 
 - 📫 How to reach me **b.philippe.97@gmail.com**
 
